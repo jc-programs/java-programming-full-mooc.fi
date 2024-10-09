@@ -1,0 +1,2 @@
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
